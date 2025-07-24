@@ -1,5 +1,9 @@
 # Comment1000: A Multi-Dimensional Sarcasm Dataset for Chinese Social Media
-This is our open dataset for SinoSarcasmClassifier: A Multi-View Model for Sarcasm Detection in Chinese Social Media with Emoji Mapping paper
+## Ownership
+
+The Comment1000 dataset is released by the authors of the paper _SinoSarcasmClassifier: A Multi-View Model for Sarcasm Detection in Chinese Social Media with Emoji Mapping_.  
+All rights to the dataset, including its structure, annotations, and documentation, are retained by the authors.  
+This dataset is provided for academic and research use only, under the terms of the CC BY-NC 4.0 license.
 
 **Comment1000** is a manually annotated dataset of 17,030 Chinese Weibo comments, designed to support the study and modeling of sarcasm in Chinese social media. The dataset captures sarcasm across multiple linguistic and semantic dimensions, including textual patterns, emoji use, polarity inversion, and syntactic cues.
 
